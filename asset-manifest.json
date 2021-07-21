@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BackgroundHover_CSS/static/css/main.e60f45c4.chunk.css",
+    "main.js": "/BackgroundHover_CSS/static/js/main.c65eba68.chunk.js",
+    "main.js.map": "/BackgroundHover_CSS/static/js/main.c65eba68.chunk.js.map",
+    "runtime-main.js": "/BackgroundHover_CSS/static/js/runtime-main.e7c531df.js",
+    "runtime-main.js.map": "/BackgroundHover_CSS/static/js/runtime-main.e7c531df.js.map",
+    "static/js/2.a6ead74a.chunk.js": "/BackgroundHover_CSS/static/js/2.a6ead74a.chunk.js",
+    "static/js/2.a6ead74a.chunk.js.map": "/BackgroundHover_CSS/static/js/2.a6ead74a.chunk.js.map",
+    "index.html": "/BackgroundHover_CSS/index.html",
+    "static/css/main.e60f45c4.chunk.css.map": "/BackgroundHover_CSS/static/css/main.e60f45c4.chunk.css.map",
+    "static/js/2.a6ead74a.chunk.js.LICENSE.txt": "/BackgroundHover_CSS/static/js/2.a6ead74a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c531df.js",
+    "static/js/2.a6ead74a.chunk.js",
+    "static/css/main.e60f45c4.chunk.css",
+    "static/js/main.c65eba68.chunk.js"
+  ]
+}
